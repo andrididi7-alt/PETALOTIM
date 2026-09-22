@@ -1,0 +1,5 @@
+
+> portal-elektronik-aset-lombok-timur@1.0.0 start
+> node server/index.js
+
+PETA API berjalan di http://127.0.0.1:3001
